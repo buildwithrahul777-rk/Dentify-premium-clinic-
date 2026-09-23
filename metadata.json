@@ -1,0 +1,6 @@
+{
+  "name": "SmileCraft Dental Studio",
+  "description": "Premium modern dental clinic website demo for SmileCraft Dental Studio with Dr. Aarav Sharma in Siwan, Bihar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
